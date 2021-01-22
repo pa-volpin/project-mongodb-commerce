@@ -188,9 +188,9 @@ Esse script passará por **todos os desafios** e imprimirá um relatório indica
 
 1. Clone o repositório
 
-- `git clone git@github.com:tryber/sd-0x-mongodb-commerce.git`.
+- `git clone git@github.com:tryber/sd-06-mongodb-commerce.git`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-mongodb-commerce`
+  - `cd sd-06-mongodb-commerce`
 
 2. Crie uma branch a partir da branch `master`
 
@@ -248,7 +248,7 @@ Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus co
 
   - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-  - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+  - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-06`.
 
 Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
